@@ -1,0 +1,28 @@
+<Qucs Schematic 0.0.19>
+<Properties>
+  <View=0,-160,800,740,1,0,0>
+  <Grid=10,10,0>
+  <DataSet=4a20mah.dat>
+  <DataDisplay=4a20mah.sch>
+  <OpenDisplay=1>
+  <Script=4a20mah.m>
+  <RunScript=0>
+  <showFrame=0>
+  <FrameText0=Título>
+  <FrameText1=Dibujado por:>
+  <FrameText2=Fecha:>
+  <FrameText3=Revisión:>
+</Properties>
+<Symbol>
+</Symbol>
+<Components>
+</Components>
+<Wires>
+</Wires>
+<Diagrams>
+  <Tab 90 140 300 200 3 #c0c0c0 1 00 1 0 1 1 1 0 1 1 1 0 1 1 315 0 225 "" "" "">
+	<"Pr1.I" #0000ff 0 3 1 0 0>
+  </Tab>
+</Diagrams>
+<Paintings>
+</Paintings>
